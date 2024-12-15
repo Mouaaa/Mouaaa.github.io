@@ -1,6 +1,6 @@
 {
   "vaultName": "Wiki OS Hardening",
-  "lastExport": 1734298151235,
+  "lastExport": 1734300235086,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -58,7 +58,7 @@
     "Wiki/Configuration système/R58 - N'installer que les paquets strictement nécessaires.md",
     "Wiki/Configuration système/R59 - Utiliser des dépôts de paquets de confiance.md",
     "Wiki/Configuration système/R61 - Effectuer des mises à jour régulières.md",
-    "Wiki/Accueil.md",
+    "Wiki/Index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -122,493 +122,493 @@
   ],
   "fileInfo": {
     "Wiki/Configuration des services/R62 - Désactiver les services non nécessaires.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2018,
       "exportedPath": "wiki/configuration-des-services/r62-désactiver-les-services-non-nécessaires.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R63 - Désactiver les fonctionnalités des services non essentielles.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1477,
       "exportedPath": "wiki/configuration-des-services/r63-désactiver-les-fonctionnalités-des-services-non-essentielles.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R67 - Sécurisé les authentifications par PAM.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1889,
       "exportedPath": "wiki/configuration-des-services/r67-sécurisé-les-authentifications-par-pam.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R68 - Protéger les mots de passe stockés.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1048,
       "exportedPath": "wiki/configuration-des-services/r68-protéger-les-mots-de-passe-stockés.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R70 - Séparer les comptes systèmes et d'administrateur de l'annuaire.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2845,
       "exportedPath": "wiki/configuration-des-services/r70-séparer-les-comptes-systèmes-et-d'administrateur-de-l'annuaire.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R74 - Durcir le service de messagerie locale.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2185,
       "exportedPath": "wiki/configuration-des-services/r74-durcir-le-service-de-messagerie-locale.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R75 - Configurarer un Alias de messagerie des comptes de service.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2525,
       "exportedPath": "wiki/configuration-des-services/r75-configurarer-un-alias-de-messagerie-des-comptes-de-service.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R79 - Durcir et surveiller les services exposés.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3279,
       "exportedPath": "wiki/configuration-des-services/r79-durcir-et-surveiller-les-services-exposés.html",
       "dependencies": []
     },
     "Wiki/Configuration des services/R80 - Réduire la surface d'attaque des services réseau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2976,
       "exportedPath": "wiki/configuration-des-services/r80-réduire-la-surface-d'attaque-des-services-réseau.html",
       "dependencies": []
     },
     "Wiki/Configuration matérielle/R1 - Choisir et configurer son matériel.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 4031,
       "exportedPath": "wiki/configuration-matérielle/r1-choisir-et-configurer-son-matériel.html",
       "dependencies": []
     },
     "Wiki/Configuration matérielle/R2 - Configurer le BIOS_UEFI.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3623,
       "exportedPath": "wiki/configuration-matérielle/r2-configurer-le-bios_uefi.html",
       "dependencies": []
     },
     "Wiki/Configuration matérielle/R3 - Activer le démarrage sécurisé UEFI.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3454,
       "exportedPath": "wiki/configuration-matérielle/r3-activer-le-démarrage-sécurisé-uefi.html",
       "dependencies": []
     },
     "Wiki/Configuration matérielle/R4 - Remplacer les clés préchargées.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3997,
       "exportedPath": "wiki/configuration-matérielle/r4-remplacer-les-clés-préchargées.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R5 - Configuration d'un mot de passe pour le chargeur de démarrage.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3458,
       "exportedPath": "wiki/configuration-noyau/r5-configuration-d'un-mot-de-passe-pour-le-chargeur-de-démarrage.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R6 - Protéger les paramètres de ligne de commande du noyau et l'initramfs.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3005,
       "exportedPath": "wiki/configuration-noyau/r6-protéger-les-paramètres-de-ligne-de-commande-du-noyau-et-l'initramfs.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R7 - Activation de l'IOMMU.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2616,
       "exportedPath": "wiki/configuration-noyau/r7-activation-de-l'iommu.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R8 - Paramétrer les options de configuration de la mémoire.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2360,
       "exportedPath": "wiki/configuration-noyau/r8-paramétrer-les-options-de-configuration-de-la-mémoire.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R9 - Paramétrer les options de configuration du noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2914,
       "exportedPath": "wiki/configuration-noyau/r9-paramétrer-les-options-de-configuration-du-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R10 - Désactiver le chargement des modules noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1748,
       "exportedPath": "wiki/configuration-noyau/r10-désactiver-le-chargement-des-modules-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R11 - Activer et configurer le LSM YAMA.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2807,
       "exportedPath": "wiki/configuration-noyau/r11-activer-et-configurer-le-lsm-yama.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R12 - Paramétrer les options de configuration du réseau  IPv4.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 6339,
       "exportedPath": "wiki/configuration-noyau/r12-paramétrer-les-options-de-configuration-du-réseau-ipv4.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R13 - Désactiver le plan IPv6.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2374,
       "exportedPath": "wiki/configuration-noyau/r13-désactiver-le-plan-ipv6.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R14 - Paramétrer les options de configuration des systèmes de fichiers.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2620,
       "exportedPath": "wiki/configuration-noyau/r14-paramétrer-les-options-de-configuration-des-systèmes-de-fichiers.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R15 - Paramétrer les options de compilation pour la gestion de la mémoire.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 5266,
       "exportedPath": "wiki/configuration-noyau/r15-paramétrer-les-options-de-compilation-pour-la-gestion-de-la-mémoire.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R16 - Paramétrer les options de compilation pour les structures de données du noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2277,
       "exportedPath": "wiki/configuration-noyau/r16-paramétrer-les-options-de-compilation-pour-les-structures-de-données-du-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R17 - Paramétrer les options de compilation pour l'allocateur mémoire.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3503,
       "exportedPath": "wiki/configuration-noyau/r17-paramétrer-les-options-de-compilation-pour-l'allocateur-mémoire.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R18 - Paramétrer les options de compilation pour la gestion des modules noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2999,
       "exportedPath": "wiki/configuration-noyau/r18-paramétrer-les-options-de-compilation-pour-la-gestion-des-modules-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R19 - Paramétrer les options de compilation pour les évènements anormaux.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2531,
       "exportedPath": "wiki/configuration-noyau/r19-paramétrer-les-options-de-compilation-pour-les-évènements-anormaux.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R20 - Paramétrer les options de compilation pour les primitives de sécurité du noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3254,
       "exportedPath": "wiki/configuration-noyau/r20-paramétrer-les-options-de-compilation-pour-les-primitives-de-sécurité-du-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R21 - Paramétrer les options de compilation pour les plugins du compilateur.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2771,
       "exportedPath": "wiki/configuration-noyau/r21-paramétrer-les-options-de-compilation-pour-les-plugins-du-compilateur.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R22 - Paramétrer les options de compilation pour la pile réseau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1812,
       "exportedPath": "wiki/configuration-noyau/r22-paramétrer-les-options-de-compilation-pour-la-pile-réseau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R23 - Paramétrer les options de compilation pour divers comportements du noyau.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2546,
       "exportedPath": "wiki/configuration-noyau/r23-paramétrer-les-options-de-compilation-pour-divers-comportements-du-noyau.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R24 - Paramétrer les options de compilation spécifiques aux architectures 32bits.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2159,
       "exportedPath": "wiki/configuration-noyau/r24-paramétrer-les-options-de-compilation-spécifiques-aux-architectures-32bits.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R25 - Paramétrer les options de compilation spécifiques aux architectures x86_64 bits.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2743,
       "exportedPath": "wiki/configuration-noyau/r25-paramétrer-les-options-de-compilation-spécifiques-aux-architectures-x86_64-bits.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R26 - Paramétrer les options de compilation spécifiques aux architectures ARM.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2448,
       "exportedPath": "wiki/configuration-noyau/r26-paramétrer-les-options-de-compilation-spécifiques-aux-architectures-arm.html",
       "dependencies": []
     },
     "Wiki/Configuration noyau/R27 - Paramétrer les options de compilation spécifiques aux architectures ARM 64bits.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2263,
       "exportedPath": "wiki/configuration-noyau/r27-paramétrer-les-options-de-compilation-spécifiques-aux-architectures-arm-64bits.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R28 - Partitionnement type.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2992,
       "exportedPath": "wiki/configuration-système/r28-partitionnement-type.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R30 - Désactiver les comptes utilisateur inutilisés.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3600,
       "exportedPath": "wiki/configuration-système/r30-désactiver-les-comptes-utilisateur-inutilisés.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R31 - Utiliser des mots de passe robustes.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2899,
       "exportedPath": "wiki/configuration-système/r31-utiliser-des-mots-de-passe-robustes.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R32 - Expirer les sessions utilisateurs locales.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2152,
       "exportedPath": "wiki/configuration-système/r32-expirer-les-sessions-utilisateurs-locales.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R33 - Assurer l’imputabilité des actions d’administration.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 4164,
       "exportedPath": "wiki/configuration-système/r33-assurer-l’imputabilité-des-actions-d’administration.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R34 - Désactiver les comptes de service.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2891,
       "exportedPath": "wiki/configuration-système/r34-désactiver-les-comptes-de-service.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R35 - Utiliser des comptes de service uniques et exclusifs.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3050,
       "exportedPath": "wiki/configuration-système/r35-utiliser-des-comptes-de-service-uniques-et-exclusifs.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R39 - Modifier les directives de configuration `sudo`.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 4634,
       "exportedPath": "wiki/configuration-système/r39-modifier-les-directives-de-configuration-`sudo`.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R40 - Utiliser des utilisateurs cibles non-privilégiés pour les commandes SUDO.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2591,
       "exportedPath": "wiki/configuration-système/r40-utiliser-des-utilisateurs-cibles-non-privilégiés-pour-les-commandes-sudo.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R42 - Bannir les négations dans les spécifications sudo.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 4173,
       "exportedPath": "wiki/configuration-système/r42-bannir-les-négations-dans-les-spécifications-sudo.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R53 - Eviter les fichiers ou répertoires sans utilisateur ou sans groupe connu.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2947,
       "exportedPath": "wiki/configuration-système/r53-eviter-les-fichiers-ou-répertoires-sans-utilisateur-ou-sans-groupe-connu.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R54 - Activer le Sticky Bit sur les répertoires Inscriptibles.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3723,
       "exportedPath": "wiki/configuration-système/r54-activer-le-sticky-bit-sur-les-répertoires-inscriptibles.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R56 - Eviter l'usage d'exécutablex avec les droits spéciaux setuid et setgrid.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2420,
       "exportedPath": "wiki/configuration-système/r56-eviter-l'usage-d'exécutablex-avec-les-droits-spéciaux-setuid-et-setgrid.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R58 - N'installer que les paquets strictement nécessaires.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 2854,
       "exportedPath": "wiki/configuration-système/r58-n'installer-que-les-paquets-strictement-nécessaires.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R59 - Utiliser des dépôts de paquets de confiance.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3192,
       "exportedPath": "wiki/configuration-système/r59-utiliser-des-dépôts-de-paquets-de-confiance.html",
       "dependencies": []
     },
     "Wiki/Configuration système/R61 - Effectuer des mises à jour régulières.md": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 3639,
       "exportedPath": "wiki/configuration-système/r61-effectuer-des-mises-à-jour-régulières.html",
       "dependencies": []
     },
-    "Wiki/Accueil.md": {
-      "modifiedTime": 1734298151235,
+    "Wiki/Index.md": {
+      "modifiedTime": 1734300235086,
       "sourceSize": 4847,
-      "exportedPath": "wiki/accueil.html",
+      "exportedPath": "wiki/index.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734298151235,
-      "sourceSize": 26731,
+      "modifiedTime": 1734300235086,
+      "sourceSize": 26727,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734298151235,
-      "sourceSize": 9365,
+      "modifiedTime": 1734300235086,
+      "sourceSize": 9361,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 860,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734298151235,
+      "modifiedTime": 1734300235086,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
